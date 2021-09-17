@@ -1,5 +1,4 @@
-# DeepC
-Implementing Deep Convolutional Neural Network in C without External Libraries for YUV video Super-Resolution
+# DeepC: Implementing Deep Convolutional Neural Network in C without External Libraries for YUV video Super-Resolution
 
 This code uses [FSRCNN](https://arxiv.org/abs/1608.00367) algorithm to upsample the Y component of each frame of the YUV 4:2:0 video with scale factor of 2.
 
