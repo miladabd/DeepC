@@ -6,6 +6,8 @@ This code uses [FSRCNN](https://arxiv.org/abs/1608.00367) algorithm to upsample 
 
 No external liberaries are used and all required functions (including convolution, deconvolution and non-linearities) are written in main file ```source.c``` file. 
 
+For more information on the code, check [my post on Towards Data Sceince](https://towardsdatascience.com/implementing-deep-convolutional-neural-networks-in-c-without-external-libraries-b30464f64d02).
+
 To compile the code in Linux use:
 
 ``` gcc source.c -o videosr```
